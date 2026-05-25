@@ -1,0 +1,623 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-11T05:55:42.841320+00:00",
+    "eval_model": "google/gemini-3.1-flash-lite-preview",
+    "input_file": "annotated_question_output.json",
+    "reasoning_effort": "xhigh",
+    "total_questions": 23,
+    "wall_clock_seconds": 36.49,
+    "total_tokens": 23130.0,
+    "total_cost_usd": 0.0
+  },
+  "overall_metrics": {
+    "total_samples": 23,
+    "valid_predictions": 23,
+    "failed_predictions": 0,
+    "correct": 19,
+    "accuracy": 0.8261,
+    "per_class": {
+      "A": {
+        "tp": 5,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.8333,
+        "recall": 1.0,
+        "f1": 0.9091
+      },
+      "B": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 1,
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1": 0.8571
+      },
+      "C": {
+        "tp": 5,
+        "fp": 3,
+        "fn": 0,
+        "precision": 0.625,
+        "recall": 1.0,
+        "f1": 0.7692
+      },
+      "D": {
+        "tp": 6,
+        "fp": 0,
+        "fn": 3,
+        "precision": 1.0,
+        "recall": 0.6667,
+        "f1": 0.8
+      }
+    },
+    "macro_precision": 0.8646,
+    "macro_recall": 0.8542,
+    "macro_f1": 0.8339
+  },
+  "per_category_metrics": {
+    "Business": {
+      "total_samples": 4,
+      "valid_predictions": 4,
+      "failed_predictions": 0,
+      "correct": 4,
+      "accuracy": 1.0,
+      "per_class": {
+        "A": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "B": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "C": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "D": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0
+    },
+    "Humanities": {
+      "total_samples": 4,
+      "valid_predictions": 4,
+      "failed_predictions": 0,
+      "correct": 3,
+      "accuracy": 0.75,
+      "per_class": {
+        "A": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "B": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "C": {
+          "tp": 2,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.6667,
+          "recall": 1.0,
+          "f1": 0.8
+        },
+        "D": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 1,
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6667
+        }
+      },
+      "macro_precision": 0.8333,
+      "macro_recall": 0.75,
+      "macro_f1": 0.7333
+    },
+    "Medical": {
+      "total_samples": 3,
+      "valid_predictions": 3,
+      "failed_predictions": 0,
+      "correct": 3,
+      "accuracy": 1.0,
+      "per_class": {
+        "A": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "B": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "C": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "D": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      },
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0
+    },
+    "Other": {
+      "total_samples": 4,
+      "valid_predictions": 4,
+      "failed_predictions": 0,
+      "correct": 3,
+      "accuracy": 0.75,
+      "per_class": {
+        "A": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "B": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "C": {
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1": 0.6667
+        },
+        "D": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 1,
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6667
+        }
+      },
+      "macro_precision": 0.8333,
+      "macro_recall": 0.8333,
+      "macro_f1": 0.7778
+    },
+    "STEM": {
+      "total_samples": 4,
+      "valid_predictions": 4,
+      "failed_predictions": 0,
+      "correct": 3,
+      "accuracy": 0.75,
+      "per_class": {
+        "A": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "B": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "C": {
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1": 0.6667
+        },
+        "D": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 1,
+          "precision": 1.0,
+          "recall": 0.6667,
+          "f1": 0.8
+        }
+      },
+      "macro_precision": 0.75,
+      "macro_recall": 0.8333,
+      "macro_f1": 0.7333
+    },
+    "Social Sciences": {
+      "total_samples": 4,
+      "valid_predictions": 4,
+      "failed_predictions": 0,
+      "correct": 3,
+      "accuracy": 0.75,
+      "per_class": {
+        "A": {
+          "tp": 2,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.6667,
+          "recall": 1.0,
+          "f1": 0.8
+        },
+        "B": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "C": {
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        "D": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "macro_precision": 0.5556,
+      "macro_recall": 0.6667,
+      "macro_f1": 0.6
+    }
+  },
+  "results": [
+    {
+      "sample_id": "high_school_european_history/test/9",
+      "subject": "high_school_european_history",
+      "subject_category": "Humanities",
+      "ground_truth": "C",
+      "predicted": "C",
+      "correct": true,
+      "raw_output": "{\n  \"answer\": \"C\"\n}",
+      "latency": 4.853,
+      "attempts": 1,
+      "tokens": 795.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "high_school_geography/test/27",
+      "subject": "high_school_geography",
+      "subject_category": "Social Sciences",
+      "ground_truth": "B",
+      "predicted": "A",
+      "correct": false,
+      "raw_output": "{\"answer\": \"A\"}",
+      "latency": 21.092,
+      "attempts": 1,
+      "tokens": 6867.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "business_ethics/test/10",
+      "subject": "business_ethics",
+      "subject_category": "Business",
+      "ground_truth": "C",
+      "predicted": "C",
+      "correct": true,
+      "raw_output": "{\"answer\": \"C\"}",
+      "latency": 3.745,
+      "attempts": 1,
+      "tokens": 733.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "global_facts/test/7",
+      "subject": "global_facts",
+      "subject_category": "Other",
+      "ground_truth": "C",
+      "predicted": "C",
+      "correct": true,
+      "raw_output": "{\"answer\": \"C\"}",
+      "latency": 2.168,
+      "attempts": 1,
+      "tokens": 368.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "astronomy/test/58",
+      "subject": "astronomy",
+      "subject_category": "STEM",
+      "ground_truth": "C",
+      "predicted": "C",
+      "correct": true,
+      "raw_output": "{\"answer\": \"C\"}",
+      "latency": 2.546,
+      "attempts": 1,
+      "tokens": 362.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "college_medicine/test/124",
+      "subject": "college_medicine",
+      "subject_category": "Medical",
+      "ground_truth": "B",
+      "predicted": "B",
+      "correct": true,
+      "raw_output": "{\"answer\": \"B\"}",
+      "latency": 3.185,
+      "attempts": 1,
+      "tokens": 447.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "business_ethics/test/14",
+      "subject": "business_ethics",
+      "subject_category": "Business",
+      "ground_truth": "D",
+      "predicted": "D",
+      "correct": true,
+      "raw_output": "{\"answer\":\"D\"}",
+      "latency": 2.91,
+      "attempts": 1,
+      "tokens": 423.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "business_ethics/test/54",
+      "subject": "business_ethics",
+      "subject_category": "Business",
+      "ground_truth": "A",
+      "predicted": "A",
+      "correct": true,
+      "raw_output": "{\"answer\":\"A\"}",
+      "latency": 3.249,
+      "attempts": 1,
+      "tokens": 584.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "management/test/98",
+      "subject": "management",
+      "subject_category": "Business",
+      "ground_truth": "A",
+      "predicted": "A",
+      "correct": true,
+      "raw_output": "{\"answer\":\"A\"}",
+      "latency": 2.54,
+      "attempts": 1,
+      "tokens": 528.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "prehistory/test/187",
+      "subject": "prehistory",
+      "subject_category": "Humanities",
+      "ground_truth": "D",
+      "predicted": "D",
+      "correct": true,
+      "raw_output": "{\"answer\": \"D\"}",
+      "latency": 10.552,
+      "attempts": 1,
+      "tokens": 2281.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "logical_fallacies/test/130",
+      "subject": "logical_fallacies",
+      "subject_category": "Humanities",
+      "ground_truth": "C",
+      "predicted": "C",
+      "correct": true,
+      "raw_output": "{\n\"answer\": \"C\"\n}",
+      "latency": 2.536,
+      "attempts": 1,
+      "tokens": 330.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "moral_disputes/test/221",
+      "subject": "moral_disputes",
+      "subject_category": "Humanities",
+      "ground_truth": "D",
+      "predicted": "C",
+      "correct": false,
+      "raw_output": "{\n\"answer\": \"C\"\n}",
+      "latency": 2.62,
+      "attempts": 1,
+      "tokens": 544.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "human_aging/test/181",
+      "subject": "human_aging",
+      "subject_category": "Medical",
+      "ground_truth": "B",
+      "predicted": "B",
+      "correct": true,
+      "raw_output": "{\"answer\": \"B\"}",
+      "latency": 2.09,
+      "attempts": 1,
+      "tokens": 348.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "nutrition/test/252",
+      "subject": "nutrition",
+      "subject_category": "Medical",
+      "ground_truth": "A",
+      "predicted": "A",
+      "correct": true,
+      "raw_output": "{\n  \"answer\": \"A\"\n}",
+      "latency": 4.605,
+      "attempts": 1,
+      "tokens": 492.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "miscellaneous/test/367",
+      "subject": "miscellaneous",
+      "subject_category": "Other",
+      "ground_truth": "B",
+      "predicted": "B",
+      "correct": true,
+      "raw_output": "{\"answer\":\"B\"}",
+      "latency": 3.238,
+      "attempts": 1,
+      "tokens": 456.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "global_facts/test/57",
+      "subject": "global_facts",
+      "subject_category": "Other",
+      "ground_truth": "D",
+      "predicted": "C",
+      "correct": false,
+      "raw_output": "{\"answer\": \"C\"}",
+      "latency": 5.3,
+      "attempts": 1,
+      "tokens": 490.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "miscellaneous/test/430",
+      "subject": "miscellaneous",
+      "subject_category": "Other",
+      "ground_truth": "D",
+      "predicted": "D",
+      "correct": true,
+      "raw_output": "{\"answer\": \"D\"}",
+      "latency": 2.489,
+      "attempts": 1,
+      "tokens": 419.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "high_school_statistics/test/33",
+      "subject": "high_school_statistics",
+      "subject_category": "STEM",
+      "ground_truth": "D",
+      "predicted": "D",
+      "correct": true,
+      "raw_output": "{\n  \"answer\": \"D\"\n}",
+      "latency": 6.399,
+      "attempts": 1,
+      "tokens": 1312.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "high_school_physics/test/10",
+      "subject": "high_school_physics",
+      "subject_category": "STEM",
+      "ground_truth": "D",
+      "predicted": "C",
+      "correct": false,
+      "raw_output": "{\n  \"answer\": \"C\"\n}",
+      "latency": 17.253,
+      "attempts": 1,
+      "tokens": 3312.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "high_school_physics/test/12",
+      "subject": "high_school_physics",
+      "subject_category": "STEM",
+      "ground_truth": "D",
+      "predicted": "D",
+      "correct": true,
+      "raw_output": "{\n  \"answer\": \"D\"\n}",
+      "latency": 2.572,
+      "attempts": 1,
+      "tokens": 623.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "sociology/test/127",
+      "subject": "sociology",
+      "subject_category": "Social Sciences",
+      "ground_truth": "D",
+      "predicted": "D",
+      "correct": true,
+      "raw_output": "{\"answer\": \"D\"}",
+      "latency": 4.596,
+      "attempts": 1,
+      "tokens": 519.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "professional_psychology/test/475",
+      "subject": "professional_psychology",
+      "subject_category": "Social Sciences",
+      "ground_truth": "A",
+      "predicted": "A",
+      "correct": true,
+      "raw_output": "{\n  \"answer\": \"A\"\n}",
+      "latency": 2.82,
+      "attempts": 1,
+      "tokens": 513.0,
+      "cost": 0
+    },
+    {
+      "sample_id": "public_relations/test/84",
+      "subject": "public_relations",
+      "subject_category": "Social Sciences",
+      "ground_truth": "A",
+      "predicted": "A",
+      "correct": true,
+      "raw_output": "{\"answer\": \"A\"}",
+      "latency": 6.834,
+      "attempts": 1,
+      "tokens": 384.0,
+      "cost": 0
+    }
+  ]
+}

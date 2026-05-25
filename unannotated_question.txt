@@ -1,0 +1,509 @@
+#sample_id: business_ethics/test/98
+________ are a business ethics management tool that have grown over the last few decades. Areas which these typically cover are compliance, corruption and environmental issues. However, they are constantly evolving, with for example, the onus on __________ having grown in recent years.
+A: Annual reports, Company financial performance
+B: Annual report, Internet - social media and networking
+C: Codes of ethics, Company financial performance
+D: Codes of ethics, Internet - social media and networking
+
+________ เป็นเครื่องมือในการจัดการจริยธรรมทางธุรกิจที่เติบโตขึ้นในช่วงหลายทศวรรษที่ผ่านมา โดยมักครอบคลุมเรื่องการปฏิบัติตามกฎ (compliance) การคอร์รัปชัน และประเด็นด้านสิ่งแวดล้อม อย่างไรก็ตาม สิ่งเหล่านี้มีการพัฒนาอย่างต่อเนื่อง โดยตัวอย่างเช่น ความสำคัญของ __________ ได้เพิ่มขึ้นในช่วงไม่กี่ปีที่ผ่านมา
+A: รายงานประจำปี, ผลการดำเนินงานทางการเงินของบริษัท
+B: รายงานประจำปี, อินเทอร์เน็ต - โซเชียลมีเดียและเครือข่าย
+C: จรรยาบรรณ (Codes of ethics), ผลการดำเนินงานทางการเงินของบริษัท
+D: จรรยาบรรณ (Codes of ethics), อินเทอร์เน็ต - โซเชียลมีเดียและเครือข่าย
+
+________ ᨸᩮ᩠ᨶᨣᩕᩮᩬᩥ᩵ᨦᨾᩨᨶᩱᨠᩣ᩠ᩁᨧᩢ᩠ᨯᨠᩣ᩠ᩁᨧᩁᩥᨿᨵᩢᨾ᩠ᨾ᩺ᨴᩣ᩠ᨦᨵᩩᩁᨠᩥ᩠ᨧᨴᩦ᩵ᨲᩮᩥ᩠ᨷᩰᨲᨡᩧ᩠᩶ᨶᨶᩱᨩ᩠ᩅ᩵ᨦᩉ᩠ᩃᩣ᩠ᨿᨴᩇᩅᩢ᩠ᩆᨴᩦ᩵ᨹ᩵ᩣ᩠ᨶᨾᩣ ᨯᩰ᩠ᨿᨾᩢ᩠ᨠᨣᩕᩬᨷᨣ᩠ᩃᩩᨾᩁᩮᩬᩥ᩵ᨦᨠᩣ᩠ᩁᨸᨭᩥᨷᩢᨲ᩠ᨲᩥᨲᩣ᩠ᨾᨠᩫ᩠ᨯ (compliance) ᨠᩣ᩠ᩁᨣᩬᩁ᩺ᩁᩢ᩠ᨷᨩᩢ᩠ᨶ ᩓᨸᩕᨯᩮ᩠ᨶᨯ᩶ᩣ᩠ᨶᩈᩥ᩠᩵ᨦᩅᩯ᩠᩵ᨯᩃᩬ᩶ᨾ ᩀ᩵ᩣ᩠ᨦᨯᩱᨠᩴ᩵ᨲᩣ᩠ᨾ ᩈᩥ᩠᩵ᨦᩉ᩠ᩃᩰ᩵ᨶᩦ᩶ᨾᩦᨠᩣ᩠ᩁᨽᨯ᩠ᨰᨶᩣᩀ᩵ᩣ᩠ᨦᨲᩬᩴ᩵ᨶᩮᩬᩥ᩵ᨦ ᨯᩰ᩠ᨿᨲ᩠ᩅᩫᩀ᩵ᩣ᩠ᨦᨩᩮ᩠᩵ᨶ ᨣ᩠ᩅᩣ᩠ᨾᩈᩣᩴᨤᩢᨬᨡᩬᨦ __________ ᨯᩱ᩶ᨻᩮᩥ᩠᩵ᨾᨡᩧ᩠᩶ᨶᨶᩱᨩ᩠ᩅ᩵ᨦᨷᩴ᩵ᨠᩦ᩵ᨸᩦᨴᩦ᩵ᨹ᩵ᩣ᩠ᨶᨾᩣ
+A: ᩁᩣ᩠ᨿᨦᩣ᩠ᨶᨸᩕᨧᩣᩴᨸᩦ, ᨹᩫ᩠ᩃᨠᩣ᩠ᩁᨯᩣᩴᨶᩮᩥ᩠ᨶᨦᩣ᩠ᨶᨴᩣ᩠ᨦᨠᩣ᩠ᩁᨦᩮᩥ᩠ᨶᨡᩬᨦᨷᩬᩁᩥᩈᩢ᩠ᨴ
+B: ᩁᩣ᩠ᨿᨦᩣ᩠ᨶᨸᩕᨧᩣᩴᨸᩦ, ᩍ᩠ᨶᨴᩮᩬᩥᩁ᩺ᨶᩮᩢ᩠ᨲ - ᩰᨪᨩ᩠ᨿᩃᨾᩦᨯ᩠ᨿᩓᨣᩕᩮᩬᩥᩋᨡ᩵ᩣ᩠ᨿ
+C: ᨧᩢᨶ᩠ᨿᩣᨷᩢᨱ (Codes of ethics), ᨹᩫ᩠ᩃᨠᩣ᩠ᩁᨯᩣᩴᨶᩮᩥ᩠ᨶᨦᩣ᩠ᨶᨴᩣ᩠ᨦᨠᩣ᩠ᩁᨦᩮᩥ᩠ᨶᨡᩬᨦᨷᩬᩁᩥᩈᩢ᩠ᨴ
+D: ᨧᩢᨶ᩠ᨿᩣᨷᩢᨱ (Codes of ethics), ᩍ᩠ᨶᨴᩮᩬᩥᩁ᩺ᨶᩮᩢ᩠ᨲ - ᩰᨪᨩ᩠ᨿᩃᨾᩦᨯ᩠ᨿᩓᨣᩕᩮᩬᩥᩋᨡ᩵ᩣ᩠ᨿ
+
+
+#sample_id: professional_accounting/test/142
+Which of the following is the proper treatment of the cost of equipment used in research and development activities that will have alternative future uses?
+A: Expensed in the year in which the research and development project started.
+B: Capitalized and depreciated over the term of the research and development project.
+C: Capitalized and depreciated over its estimated useful life.
+D: Either capitalized or expensed, but not both, depending on the term of the research and development project.
+
+ข้อใดต่อไปนี้เป็นการปฏิบัติที่ถูกต้องสำหรับต้นทุนของอุปกรณ์ที่ใช้ในกิจกรรมวิจัยและพัฒนา ซึ่งสามารถนำไปใช้ประโยชน์ในอนาคตได้?
+A: รับรู้เป็นค่าใช้จ่ายในปีที่เริ่มโครงการวิจัยและพัฒนา
+B: บันทึกเป็นสินทรัพย์และตัดค่าเสื่อมราคาในช่วงระยะเวลาของโครงการวิจัยและพัฒนา
+C: บันทึกเป็นสินทรัพย์และตัดค่าเสื่อมราคาตลอดอายุการใช้งานโดยประมาณ
+D: สามารถเลือกบันทึกเป็นสินทรัพย์หรือค่าใช้จ่ายก็ได้ ขึ้นอยู่กับระยะเวลาของโครงการ
+
+ᨡᩬᩴ᩶ᨯᩱᨲᩬᩴ᩵ᨻᩱᨶᩦ᩶ᨸᩮ᩠ᨶᨠᩣ᩠ᩁᨸᨭᩥᨷᩢᨲ᩠ᨲᩥᨴᩦ᩵ᨳᩪᨠᨲᩬ᩶ᨦᩈᩣᩴᩁᩢ᩠ᨷᨲᩫ᩠᩶ᨶᨴᩩᩁᨡᩬᨦᩋᩩᨸᨠᩬᩁᨱ᩺ᨴᩦ᩵ᨩᩱ᩶ᨶᩱᨠᩥᨧ᩠ᨧᨠᩢᨾ᩠ᨾ᩺ᩅᩥᨧᩱ᩠ᨿᩓᨽᨯ᩠ᨰᨶᩣ ᨪᩧ᩠᩵ᨦᩈᩣᨾᨲ᩠ᨳᨶᩣᩴᨻᩱᨩᩱ᩶ᨸᩕᩰᨿ᩠ᨩᨶ᩺ᨶᩱᩋᨶᩣᨣᨲᨯᩱ᩶?
+A: ᩁᩢ᩠ᨷᩁᩪ᩶ᨸᩮ᩠ᨶᨣ᩵ᩣᨩᩱ᩶ᨧ᩵ᩣ᩠ᨿᨶᩱᨸᩦᨴᩦ᩵ᩁᩮᩥ᩠᩵ᨾᩰᨣᩕ᩠ᨦᨠᩣ᩠ᩁᩅᩥᨧᩱ᩠ᨿᩓᨽᨯ᩠ᨰᨶᩣ
+B: ᨷᩢ᩠ᨶᨴᩧ᩠ᨠᨸᩮ᩠ᨶᩈᩥ᩠ᨶᨴᩕᩢᨻ᩠ᨿ᩺ᩓᨲᩢ᩠ᨯᨣ᩵ᩣᩈᩮᩬᩥ᩵ᨾᩁᩣᨤᩣᨶᩱᨩ᩠ᩅ᩵ᨦᩁᩡᨿᩡᩅᩮᩃᩣᨡᩬᨦᩰᨣᩕ᩠ᨦᨠᩣ᩠ᩁᩅᩥᨧᩱ᩠ᨿᩓᨽᨯ᩠ᨰᨶᩣ
+C: ᨷᩢ᩠ᨶᨴᩧ᩠ᨠᨸᩮ᩠ᨶᩈᩥ᩠ᨶᨴᩕᩢᨻ᩠ᨿ᩺ᩓᨲᩢ᩠ᨯᨣ᩵ᩣᩈᩮᩬᩥ᩵ᨾᩁᩣᨤᩣᨲᩃᩬᨯᩋᩣᨿᩩᨠᩣ᩠ᩁᨩᩱ᩶ᨦᩣ᩠ᨶᨯᩰ᩠ᨿᨸᩕᨾᩣ᩠ᨱ
+D: ᩈᩣᨾᨲ᩠ᨳᩃᩮᩬᩥᨠᨷᩢ᩠ᨶᨴᩧ᩠ᨠᨸᩮ᩠ᨶᩈᩥ᩠ᨶᨴᩕᩢᨻ᩠ᨿ᩺ᩉ᩠ᩃᩨᨣ᩵ᩣᨩᩱ᩶ᨧ᩵ᩣ᩠ᨿᨠᩴ᩵ᨯᩱ᩶ ᨡᩧ᩠᩶ᨶᩀᩪ᩵ᨠᩢ᩠ᨷᩁᩡᨿᩡᩅᩮᩃᩣᨡᩬᨦᩰᨣᩕ᩠ᨦᨠᩣ᩠ᩁ
+
+
+#sample_id: moral_disputes/test/153
+Which of the following is not a requirement on the definition of "legal punishment"?
+A: It must be for an offense against legal rules.
+B: It must involve unpleasant consequences.
+C: It must not necessarily be of an actual or supposed offender.
+D: It must be intentionally administered by human beings other than the offender.
+
+ข้อใดต่อไปนี้ “ไม่ใช่” ข้อกำหนดในนิยามของ “การลงโทษทางกฎหมาย” (legal punishment)?
+A: ต้องเป็นการลงโทษสำหรับการกระทำที่ละเมิดกฎหมาย
+B: ต้องเกี่ยวข้องกับผลลัพธ์ที่ไม่พึงประสงค์
+C: ไม่จำเป็นต้องกระทำต่อผู้กระทำผิดจริงหรือผู้ที่ถูกเข้าใจว่าเป็นผู้กระทำผิด
+D: ต้องถูกกระทำโดยเจตนาโดยบุคคลอื่นที่ไม่ใช่ผู้กระทำผิด
+
+ᨡᩬᩴ᩶ᨯᩱᨲᩬᩴ᩵ᨻᩱᨶᩦ᩶ “ᨷᩴ᩵ᨩᩱ᩵” ᨡᩬᩴ᩶ᨠᩣᩴᩉ᩠ᨶᩫᨯᨶᩱᨶᩥᨿᩣ᩠ᨾᨡᩬᨦ “ᨠᩣ᩠ᩁᩃᩫ᩠ᨦᨴᩰᩫ᩠ᩇᨴᩣ᩠ᨦᨠᩫ᩠ᨯᩉ᩠ᨾᩣ᩠ᨿ” (legal punishment)?
+A: ᨲᩬ᩶ᨦᨸᩮ᩠ᨶᨠᩣ᩠ᩁᩃᩫ᩠ᨦᨴᩰᩫ᩠ᩇᩈᩣᩴᩁᩢ᩠ᨷᨠᩣ᩠ᩁᨠᩕᨴᩤᩴᨴᩦ᩵ᩃᩡᨾᩮᩥ᩠ᨯᨠᩫ᩠ᨯᩉ᩠ᨾᩣ᩠ᨿ
+B: ᨲᩬ᩶ᨦᨠ᩠ᨿ᩵ᩅᨡᩬ᩶ᨦᨠᩢ᩠ᨷᨹᩫ᩠ᩃᩃᩢ᩠ᨷᨵ᩺ᨴᩦ᩵ᨷᩴ᩵ᨻᩧ᩠ᨦᨸᩕᩈᩫ᩠ᨦᨣ᩺
+C: ᨷᩴ᩵ᨧᩣᩴᨸᩮ᩠ᨶᨲᩬ᩶ᨦᨠᩕᨴᩤᩴᨲᩬᩴ᩵ᨹᩪ᩶ᨠᩕᨴᩤᩴᨹᩥ᩠ᨯᨧᩥ᩠ᨦᩉ᩠ᩃᩨᨹᩪ᩶ᨴᩦ᩵ᨳᩪᨠᨡᩮᩢ᩶ᩣᨧᩱᩅ᩵ᩤᨸᩮ᩠ᨶᨹᩪ᩶ᨠᩕᨴᩤᩴᨹᩥ᩠ᨯ
+D: ᨲᩬ᩶ᨦᨳᩪᨠᨠᩕᨴᩤᩴᨯᩰ᩠ᨿᨧᩮᨲᨶᩣᨯᩰ᩠ᨿᨷᩩᨣ᩠ᨣᩫᩃᩋᩨ᩠᩵ᨶᨴᩦ᩵ᨷᩴ᩵ᨩᩱ᩵ᨹᩪ᩶ᨠᩕᨴᩤᩴᨹᩥ᩠ᨯ
+
+
+#sample_id: jurisprudence/test/10
+Who was an exponent of “natural law with a variable content”?
+A: John Rawls
+B: Stammler
+C: Jerome Hall
+D: John Finns
+
+ใครเป็นผู้เสนอแนวคิด “กฎหมายธรรมชาติที่มีเนื้อหาแปรผัน” (natural law with a variable content)?
+A: จอห์น รอลส์
+B: สแตมเลอร์ (Stammler)
+C: เจอโรม ฮอลล์
+D: จอห์น ฟินนิส
+
+ᨹᩱᨸᩮ᩠ᨶᨹᩪ᩶ᩈᩮ᩠ᨶᩬᩥᨶᩯ᩠ᩅᨣᩧ᩠ᨯ “ᨠᩫ᩠ᨭᩉ᩠ᨾᩣ᩠ᨿᨵᨾ᩠ᨾᨩᩣ᩠ᨲᩥᨴᩦ᩵ᨾᩦᨶᩮᩬᩥ᩶ᩋᩉᩣᨸᩕᩯᨹᩢ᩠ᨶ” (natural law with a variable content)?
+A: ᨧᩬᩉ᩺ᨶ ᩁᩬᩃᩈ᩺
+B: ᩈᨲᩯ᩠ᨾᩃᩮᩬᩥᩁ᩺ (Stammler)
+C: ᨧᩮᩬᩥᩰᩁ᩠ᨾ ᩌᩬᩃᩃ᩺
+D: ᨧᩬᩉ᩺ᨶ ᨼᩥ᩠ᨶᨶᩥ᩠ᩈ
+
+
+#sample_id: prehistory/test/182
+The construction of large-scale features, such as mounds and shell middens, is often taken by archaeologists as evidence of:
+A: the practice of slavery.
+B: social and political complexity.
+C: a Mesolithic tradition.
+D: the shift from Paleolithic to Neolithic.
+
+การก่อสร้างโครงสร้างขนาดใหญ่ เช่น เนินดิน (mounds) และกองเปลือกหอย (shell middens) มักถูกนักโบราณคดีมองว่าเป็นหลักฐานของ
+A: การมีทาส
+B: ความซับซ้อนทางสังคมและการเมือง
+C: ประเพณีในยุคเมโสลิธิก
+D: การเปลี่ยนผ่านจากยุคพาลีโอลิธิกไปสู่ยุคนีโอลิธิก
+
+ᨠᩣ᩠ᩁᨠᩬᩴ᩵ᩈ᩶ᩣ᩠ᨦᨣᩕᩰ᩠ᨦᩈ᩶ᩣ᩠ᨦᨡ᩠ᨶᩣ᩠ᨯᩉ᩠ᨿᩱ᩵ ᨩᩮ᩠᩵ᨶ ᨶᩮᩥ᩠ᨶᨯᩥ᩠ᨶ (mounds) ᩓ ᨠᩬᨦᨸ᩠ᩃᩮᩬᩥᨠᩉᩬ᩠ᨿ (shell middens) ᨾᩢ᩠ᨠᨳᩪᨠᨶᩢ᩠ᨠᨷᩰᩁᩣᨱᨤᨯᩦᨾᩬᨦᩅ᩵ᩤᨸᩮ᩠ᨶᩉ᩠ᩃᩢᨠᨮᩣ᩠ᨶᨡᩬᨦ
+A: ᨠᩣ᩠ᩁᨾᩦᨴᩣ᩠ᩈ
+B: ᨤ᩠ᩅᩣ᩠ᨾᨪᩢ᩠ᨷᨪᩬ᩶ᩁᨴᩤ᩠ᨦᩈᩢᨦ᩠ᨣᩫᨾᩓᨠᩣ᩠ᩁᨾᩮᩬᩥᨦ
+C: ᨸᩕᨻᩮᨱᩦᨶᩱᨿᩩᨣᨾᩮᩰᩈᩃᩥᨴᩥ᩠ᨠ
+D: ᨠᩣ᩠ᩁᨸ᩠ᩃ᩠ᨿ᩵ᩁᨹ᩵ᩣ᩠ᨶᨧᩣ᩠ᨠᨿᩩᨣᨻᩣᩃᩦᩰᩋᩃᩥᨴᩥ᩠ᨠᨻᩱᩈᩪ᩵ᨿᩩᨣᨶᩦᩰᩋᩃᩥᨴᩥ᩠ᨠ
+
+
+#sample_id: virology/test/142
+The risk of acquiring HIV from a unit of blood in the United States is now:
+A: 1/10,000 units
+B: 1/200,000 units
+C: 1/500,000 unit
+D: 1 per 2 million units
+
+ความเสี่ยงในการติดเชื้อ HIV จากเลือดหนึ่งหน่วยในสหรัฐอเมริกาในปัจจุบันคือ
+A: 1 ต่อ 10,000 หน่วย
+B: 1 ต่อ 200,000 หน่วย
+C: 1 ต่อ 500,000 หน่วย
+D: 1 ต่อ 2 ล้านหน่วย
+
+ᨣ᩠ᩅᩣ᩠ᨾᩈ᩠ᨿ᩵ᨦᨶᩱᨠᩣ᩠ᩁᨲᩥ᩠ᨯᨩᩮᩬᩥ᩶ᩋ HIV ᨧᩣ᩠ᨠᩃᩮᩬᩥᨯᩉ᩠ᨶᩧ᩠᩵ᨦᩉ᩠ᨶ᩠ᩅ᩵ᨿᨶᩱᩈᩉᩁᩢᨭᩛᩋᨾᩮᩁᩥᨠᩣᨶᩱᨸᩢᨧ᩠ᨧᩩᨷᩢ᩠ᨶᨣᩨ
+A: 1 ᨲᩬᩴ᩵ 10,000 ᩉ᩠ᨶ᩠ᩅ᩵ᨿ
+B: 1 ᨲᩬᩴ᩵ 200,000 ᩉ᩠ᨶ᩠ᩅ᩵ᨿ
+C: 1 ᨲᩬᩴ᩵ 500,000 ᩉ᩠ᨶ᩠ᩅ᩵ᨿ
+D: 1 ᨲᩬᩴ᩵ 2 ᩃ᩶ᩣ᩠ᨶᩉ᩠ᨶ᩠ᩅ᩵ᨿ
+
+
+#sample_id: human_aging/test/201
+In this chapter's Senior View, Tolly Kleckley told us that personality
+A: Changes a lot past age 50
+B: Doesn't change past age 50
+C: Pretty much stays the same
+D: Changes more for women than for men
+
+ในหัวข้อ Senior View ของบทนี้ ทอลลี่ เคล็คลีย์ กล่าวว่าบุคลิกภาพ
+A: เปลี่ยนแปลงมากหลังอายุ 50 ปี
+B: ไม่เปลี่ยนแปลงหลังอายุ 50 ปี
+C: โดยรวมแล้วค่อนข้างคงเดิม
+D: เปลี่ยนแปลงในผู้หญิงมากกว่าผู้ชาย
+
+ᨶᩱᩉ᩠ᩅᩫᨡᩬᩴ᩶ Senior View ᨡᩬᨦᨷᩫ᩠ᨴᨶᩦ᩶ ᨴᩬᩃᩃᩦ᩵ ᨣᩖᩮᩢᨠᩃᩦ᩵ ᨠᩖ᩵ᩣ᩠ᩅᩅ᩵ᩣᨷᩩᨣ᩠ᨣᩃᩥᨠᨽᩣ᩠ᨻ
+A: ᨸᩖ᩠ᨿ᩵ᩁᨸᩖᩯᨦᨶᩢ᩠ᨠᩉ᩠ᩃᩢᨦᩋᩣᨿᩩ 50 ᨸᩦ
+B: ᨷᩴ᩵ᨸᩖ᩠ᨿ᩵ᩁᨸᩖᩯᨦᩉ᩠ᩃᩢᨦᩋᩣᨿᩩ 50 ᨸᩦ
+C: ᨯᩰ᩠ᨿᩁ᩠ᩅᨾᩓ᩠ᩅᨤᩬ᩵ᩁᨡ᩶ᩣ᩠ᨦᨣᩫ᩠ᨦᨯᩮᩥ᩠ᨾ
+D: ᨸᩖ᩠ᨿ᩵ᩁᨸᩖᩯᨦᨶᩱᨾᩯ᩵ᨿᩥ᩠ᨦᨶᩢ᩠ᨠᨠ᩠ᩅ᩵ᩣᨻᩬᩴ᩵ᨩᩣ᩠ᨿ
+
+
+#sample_id: virology/test/91
+Where are arenaviruses predominately located in the world?
+A: SE Asia
+B: Russia
+C: Africa and S. America
+D: N. America
+
+arenavirus พบมากในพื้นที่ใดของโลก?
+A: เอเชียตะวันออกเฉียงใต้
+B: รัสเซีย
+C: แอฟริกาและอเมริกาใต้
+D: อเมริกาเหนือ
+
+arenavirus ᨸᩡᨶᩢ᩠ᨠᨶᩱᨻᩨ᩠᩶ᨶᨴᩦ᩵ᨯᩱᨡᩬᨦᩃᩰᩫ᩠ᨠ?
+A: ᩋᩮᨩ᩠ᨿᨲᩅᩢ᩠ᨶᩋᩬᨠᨨ᩠ᨿᨦᨲᩱ᩶
+B: ᩁᩢ᩠ᩈᨪᩮ᩠ᨿ
+C: ᩋᩯᨼᩁᩥᨠᩣᩓᩋᨾᩮᩁᩥᨠᩣᨲᩱ᩶
+D: ᩋᨾᩮᩁᩥᨠᩣᩉ᩠ᨶᩮᩬᩥᩋ
+
+
+#sample_id: nutrition/test/19
+Acute binge drinking is associated with?
+A: Happy heart syndrome
+B: Home heart syndrome
+C: Beach heart syndrome
+D: Holiday heart syndrome
+
+การดื่มแอลกอฮอล์ในปริมาณมากในระยะสั้น (acute binge drinking) มีความเกี่ยวข้องกับข้อใด?
+A: กลุ่มอาการหัวใจสุข (Happy heart syndrome)
+B: กลุ่มอาการหัวใจบ้าน (Home heart syndrome)
+C: กลุ่มอาการหัวใจชายหาด (Beach heart syndrome)
+D: กลุ่มอาการหัวใจวันหยุด (Holiday heart syndrome)
+
+ᨠᩣ᩠ᩁᨯᩨ᩠᩵ᨾᩋᩯ᩠ᩃᨣᩬᩴᩌᩬᩃ᩺ᨶᩱᨸᩕᩥᨾᩣ᩠ᨱᨶᩢ᩠ᨠᨶᩱᩁᩡᨿᩡᩈᩢ᩠᩶ᨶ (acute binge drinking) ᨾᩦᨤ᩠ᩅᩣ᩠ᨾᨠ᩠ᨿ᩵ᩅᨡᩬ᩶ᨦᨠᩢ᩠ᨷᨡᩬᩴ᩶ᨯᩱ?
+A: ᨠᩖᩩ᩵ᨾᩋᩣᨠᩣ᩠ᩁᩉ᩠ᩅᩫᨧᩱᩈᩩᨡ (Happy heart syndrome)
+B: ᨠᩖᩩ᩵ᨾᩋᩣᨠᩣ᩠ᩁᩉ᩠ᩅᩫᨧᩱᨷ᩶ᩤ᩠ᨶ (Home heart syndrome)
+C: ᨠᩖᩩ᩵ᨾᩋᩣᨠᩣ᩠ᩁᩉ᩠ᩅᩫᨧᩱᨩᩣ᩠ᨿᩉᩣ᩠ᨯ (Beach heart syndrome)
+D: ᨠᩖᩩ᩵ᨾᩋᩣᨠᩣ᩠ᩁᩉ᩠ᩅᩫᨧᩱᩅᩢ᩠ᨶᩉ᩠ᨿᩩᨯ (Holiday heart syndrome)
+
+
+#sample_id: human_aging/test/123
+The environmental design that brings pets and plants to nursing homes and young people and children as regular visitors is referred to as
+A: Instrumental Living Design
+B: The Humanistic Choice
+C: Human-Environment Congruence
+D: The Eden Alternative
+
+การออกแบบสภาพแวดล้อมที่นำสัตว์เลี้ยงและพืชเข้ามาในบ้านพักคนชรา และให้เยาวชนหรือเด็กมาเยี่ยมเป็นประจำ เรียกว่าอะไร?
+A: การออกแบบเพื่อการใช้ชีวิตเชิงเครื่องมือ (Instrumental Living Design)
+B: ทางเลือกเชิงมนุษยนิยม (The Humanistic Choice)
+C: ความสอดคล้องระหว่างมนุษย์กับสิ่งแวดล้อม (Human-Environment Congruence)
+D: แนวทาง Eden Alternative
+
+ᨠᩣ᩠ᩁᩋᩬᨠᨷᩯ᩠ᨷᩈᨽᩣ᩠ᨻᩅᩯ᩠᩵ᨯᩃᩬ᩶ᨾᨴᩦ᩵ᨶᩣᩴᩈᩢ᩠ᨲᩃ᩠ᨿ᩶ᨦᩓᨻᩨ᩠ᨩᨡᩮᩢ᩶ᩣᨾᩣᨶᩱᨷ᩶ᩤ᩠ᨶᨻᩢ᩠ᨠᨤᩫ᩠ᨶᨩᩁᩣ ᩓᩉᩨ᩶ᨿᩮᩢᩣᩅᨩᩫ᩠ᨶᩉ᩠ᩃᩨᩃᩡᩋᩬ᩵ᩁᨾᩣᩀ᩠ᨿ᩶ᨾᨸᩮ᩠ᨶᨸᩕᨧᩣᩴ ᩌᩬ᩶ᨦᩅ᩵ᩤᩋᩡᩉ᩠ᨿᩢᨦ?
+A: ᨠᩣ᩠ᩁᩋᩬᨠᨷᩯ᩠ᨷᨻᩮᩬᩥ᩵ᩋᨠᩣ᩠ᩁᨩᩱ᩶ᨩᩦᩅᩥ᩠ᨲᨩᩮᩥ᩠ᨦᨣᩕᩮᩬᩥ᩵ᨦᨾᩨ (Instrumental Living Design)
+B: ᨴᩣ᩠ᨦᩃᩮᩬᩥᨠᨩᩮᩥ᩠ᨦᨾᨶᩩᩇ᩠ᨿᨶᩥᨿᩫ᩠ᨾ (The Humanistic Choice)
+C: ᨣ᩠ᩅᩣ᩠ᨾᩈᩬᨯᨤᩖᩬ᩶ᨦᩁᩉ᩠ᩅ᩵ᩣ᩠ᨦᨾᨶᩩᩇ᩠ᨿ᩺ᨠᩢ᩠ᨷᩈᩥ᩠᩵ᨦᩅᩯ᩠᩵ᨯᩃᩬ᩶ᨾ (Human-Environment Congruence)
+D: ᨶᩯ᩠ᩅᨴᩣ᩠ᨦ Eden Alternative
+
+
+#sample_id: miscellaneous/test/173
+People who believe their political views are important, that government will respect these views, and that their views can influence political affairs are said to have a strong sense of
+A: political partisanship
+B: political alienation
+C: political allegiance
+D: political efficacy
+
+ผู้ที่เชื่อว่าความคิดเห็นทางการเมืองของตนมีความสำคัญ รัฐบาลจะรับฟังความคิดเห็นเหล่านั้น และความคิดเห็นของตนสามารถมีอิทธิพลต่อการเมืองได้ เรียกว่ามี
+A: ความเป็นพรรคพวกทางการเมือง (political partisanship)
+B: ความแปลกแยกทางการเมือง (political alienation)
+C: ความจงรักภักดีทางการเมือง (political allegiance)
+D: ประสิทธิผลทางการเมือง (political efficacy)
+
+ᨹᩪ᩶ᨴᩦ᩵ᨩᩮᩬᩥ᩵ᩋᩅ᩵ᩤᨤ᩠ᩅᩣ᩠ᨾᨣᩧ᩠ᨯᩉᩢ᩠ᨶᨴᩤ᩠ᨦᨠᩣ᩠ᩁᨾᩮᩬᩥᨦᨡᩬᨦᨲᩫ᩠ᨶᨾᩦᨤ᩠ᩅᩣ᩠ᨾᩈᩣᩴᨤᩢᨬ ᩁᩢᨭᩛᨷᩤ᩠ᩃᨧᩡᩁᩢ᩠ᨷᨼᩢ᩠ᨦᨤ᩠ᩅᩣ᩠ᨾᨣᩧ᩠ᨯᩉᩢ᩠ᨶᩉ᩠ᩃᩮᩢ᩵ᩣᨶᩢ᩠᩶ᨶ ᩓᨤ᩠ᩅᩣ᩠ᨾᨣᩧ᩠ᨯᩉᩢ᩠ᨶᨡᩬᨦᨲᩫ᩠ᨶᩈᩣᨾᩣ᩠ᨲᨾᩦᩋᩥᨴ᩠ᨵᩥᨻᩫ᩠ᩃᨲᩬᩴ᩵ᨠᩣ᩠ᩁᨾᩮᩬᩥᨦᨯᩱ᩶ ᩌᩬ᩶ᨦᩅ᩵ᩤᨾᩦ
+A: ᨤ᩠ᩅᩣ᩠ᨾᨸᩮ᩠ᨶᨻᩢ᩠ᨠᨻ᩠ᩅᨠᨴᩤ᩠ᨦᨠᩣ᩠ᩁᨾᩮᩬᩥᨦ (political partisanship)
+B: ᨤ᩠ᩅᩣ᩠ᨾᨸ᩠ᩃᩯᨠᨿᩯ᩠ᨠᨴᩤ᩠ᨦᨠᩣ᩠ᩁᨾᩮᩬᩥᨦ (political alienation)
+C: ᨤ᩠ᩅᩣ᩠ᨾᨧᩫ᩠ᨦᩁᩢ᩠ᨠᨽᩢ᩠ᨠᨯᩦᨴᩤ᩠ᨦᨠᩣ᩠ᩁᨾᩮᩬᩥᨦ (political allegiance)
+D: ᨸᩕᩈᩥᨴ᩠ᨵᩥᨹᩫ᩠ᩃᨴᩤ᩠ᨦᨠᩣ᩠ᩁᨾᩮᩬᩥᨦ (political efficacy)
+
+#sample_id: miscellaneous/test/624
+What's unique about a skeleton key?
+A: It opens many locks
+B: It's made of bone
+C: It's extremely old
+D: It hangs in a closet
+
+อะไรคือความพิเศษของกุญแจ Skeleton key?
+A: สามารถเปิดได้หลายล็อก
+B: ทำมาจากกระดูก
+C: มีความเก่าแก่มาก
+D: แขวนอยู่ในตู้เสื้อผ้า
+
+ᩋᩡᩉ᩠ᨿᩢᨦᨣᩨᨤ᩠ᩅᩣ᩠ᨾᨻᩥᩈᩮ᩠ᩇᨡᩬᨦᨠᩩᨬ᩠ᨧᩯ Skeleton key?
+A: ᩈᩣᨾᩣ᩠ᨲᨸᩮᩥ᩠ᨯᨯᩱ᩶ᩉᩖᩣ᩠ᨿᩃᩬᩢᨠ
+B: ᨴᩤᩴᨾᩣᨧᩣ᩠ᨠᨠᩕᨯᩪᨠ
+C: ᨾᩦᨤ᩠ᩅᩣ᩠ᨾᨠᩮᩢ᩵ᩣᨠᩯ᩵ᨶᩢ᩠ᨠ
+D: ᨡ᩠ᩅᩯ᩠ᨶᩀᩪ᩵ᨶᩱᨲᩪ᩶ᩈᩮᩬᩥ᩶ᩋᨹ᩶ᩣ
+
+
+#sample_id: miscellaneous/test/662
+What article of clothing best describes a 'pashmina'?
+A: shoes
+B: pants
+C: scarf
+D: underwear
+
+เสื้อผ้าประเภทใดอธิบายคำว่า “pashmina” ได้ดีที่สุด?
+A: รองเท้า
+B: กางเกง
+C: ผ้าพันคอ
+D: ชุดชั้นใน
+
+ᩈᩮᩬᩥ᩶ᩋᨹ᩶ᩣᨸᩕᨽᩮ᩠ᨴᨯᩱᩋᨵᩥᨷᩤ᩠ᨿᨣᩤᩴᩅ᩵ᩤ “pashmina” ᨯᩱ᩶ᨯᩦᨴᩦ᩵ᩈᩩᨯ?
+A: ᩁᩬᨦᨴᩮᩢ᩶ᩤ
+B: ᨠᩣ᩠ᨦᩮ᩠ᨠ᩠ᨦ
+C: ᨹ᩶ᩣᨻᩢ᩠ᨶᨤᩬᩴ
+D: ᨩᩩᨯᨩᩢ᩠᩶ᨶᨶᩱ
+
+
+#sample_id: miscellaneous/test/3
+The Apple iMac computer is available in all of the following colors except which?
+A: Tangerine
+B: Strawberry
+C: Kiwi
+D: Grape
+
+คอมพิวเตอร์ Apple iMac มีจำหน่ายในทุกสีต่อไปนี้ ยกเว้นสีใด?
+A: ส้ม (Tangerine)
+B: สตรอว์เบอร์รี (Strawberry)
+C: กีวี (Kiwi)
+D: องุ่น (Grape)
+
+ᨤᩬᨾᨻᩥ᩠ᩅᨴᩮᩥᩬᩁ᩺ Apple iMac ᨾᩦᨡᩣ᩠ᨿᨶᩱᨠᩩᩈᩦᨲᩬᩴ᩵ᨻᩱᨶᩦ᩶ ᨿᩫ᩠ᨠᩅᩮ᩠᩶ᨶᩈᩦᨯᩱ?
+A: ᩈᩫ᩠᩶ᨾ (Tangerine)
+B: ᩈᨲᩕᩬᩴᩮᨷᩬᩥᩁ᩺ᩁᩦ᩵ (Strawberry)
+C: ᨠᩦᩅᩦ᩵ (Kiwi)
+D: ᩋᨦᩩ᩵ᩁ (Grape)
+
+
+#sample_id: miscellaneous/test/629
+What does the acronym 'REM' stand for?
+A: random energy module
+B: rapid eye movement
+C: red entertainment machine
+D: really energetic music
+
+คำย่อ “REM” ย่อมาจากอะไร?
+A: โมดูลพลังงานสุ่ม (random energy module)
+B: การเคลื่อนไหวของดวงตาอย่างรวดเร็ว (rapid eye movement)
+C: เครื่องบันเทิงสีแดง (red entertainment machine)
+D: ดนตรีที่มีพลังมาก (really energetic music)
+
+ᨣᩤᩴᩉ᩠ᨿᩬᩴ᩶ “REM” ᩉ᩠ᨿᩬᩴ᩶ᨾᩣᨧᩣ᩠ᨠᩋᩡᩉ᩠ᨿᩢᨦ?
+A: ᩰᨾᨯᩪᩃᨻᩃᩢ᩠ᨦᨦᩣ᩠ᨶᩈᩩ᩵ᨾ (random energy module)
+B: ᨠᩣ᩠ᩁᨣᩕᩮᩬᩥ᩵ᨶᩉ᩠ᩅᩱᨡᩬᨦᨯ᩠ᩅᨦᨲᩣᩀ᩵ᩣ᩠ᨦᩁ᩠ᩅᨯᩮᩁ᩠ᩅ (rapid eye movement)
+C: ᨣᩕᩮᩬᩥ᩵ᨦᨷᩢ᩠ᨶᨴᩮᩥ᩠ᨦᩈᩦᨯᩯ᩠ᨦ (red entertainment machine)
+D: ᨯᩫ᩠ᨶᨲᩕᩦᨴᩦ᩵ᨾᩦᨻᩃᩢ᩠ᨦᨶᩢ᩠ᨠ (really energetic music)
+
+
+#sample_id: high_school_physics/test/16
+A beam of electrons has speed 10^7 m/s. It is desired to use the magnetic field of the Earth, 5 × 10−5 T, to bend the electron beam into a circle. What will be the radius of this circle?
+A: 1 nm
+B: 1 μm
+C: 1 mm
+D: 1 m
+
+ลำอิเล็กตรอนมีความเร็ว 10^7 เมตร/วินาที ต้องการใช้สนามแม่เหล็กของโลก (5 × 10⁻⁵ เทสลา) เพื่อเบี่ยงลำอิเล็กตรอนให้เป็นวงกลม รัศมีของวงกลมนี้จะเป็นเท่าใด?
+A: 1 นาโนเมตร
+B: 1 ไมโครเมตร
+C: 1 มิลลิเมตร
+D: 1 เมตร
+
+ᩃᩣᩴᩋᩥᩃᩮᩢ᩠ᨠᨲᩕᩬᩁᨾᩦᨤ᩠ᩅᩣ᩠ᨾᩁᩮ᩠ᩅ 10^7 ᨾᩮ᩠ᨲᩕ/ᩅᩥᨶᩣᨴᩦ ᨲᩬ᩶ᨦᨠᩣ᩠ᩁᨩᩱ᩶ᩈᨶᩣ᩠ᨾᨾᩯ᩵ᩉ᩠ᩃᩮᩢᨠᨡᩬᨦᩃᩰᩫ᩠ᨠ (5 × 10⁻⁵ ᨴᩮᩈᩃᩣ) ᨻᩮᩬᩥ᩵ᩋᨷ᩠ᨿ᩵ᨦᩃᩣᩴᩋᩥᩃᩮᩢ᩠ᨠᨲᩕᩬᩁᩉᩨ᩶ᨸᩮ᩠ᨶᩅᩫ᩠ᨦᨠ᩠ᩃᩫᨾ ᩁᩢᩔ᩠ᨾᩦᨡᩬᨦᩅᩫ᩠ᨦᨠ᩠ᩃᩫᨾᨶᩦ᩶ᨧᩡᨸᩮ᩠ᨶᨴᩮᩢ᩵ᩤᨯᩱ?
+A: 1 ᨶᩣᩰᨶᨾᩮ᩠ᨲᩕ
+B: 1 ᨾᩱᩰᨣᩕᨾᩮ᩠ᨲᩕ
+C: 1 ᨾᩥᩃᩃᩥᨾᩮ᩠ᨲᩕ
+D: 1 ᨾᩮ᩠ᨲᩕ
+
+
+#sample_id: elementary_mathematics/test/99
+A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?
+A: 2
+B: 3.6
+C: 22.5
+D: 63
+
+น้ำสลัดชนิดหนึ่งทำโดยผสมน้ำส้มสายชู 2 ส่วนกับน้ำมัน 5 ส่วน หากมีน้ำส้มสายชู 9 ออนซ์ ควรผสมน้ำมันกี่ออนซ์?
+A: 2
+B: 3.6
+C: 22.5
+D: 63
+
+ᨶᩣᩴ᩶ᩈᩃᩢ᩠ᨯᨩᨶᩥ᩠ᨯᩉ᩠ᨶᩧ᩠᩵ᨦᨴᩤᩴᨯᩰ᩠ᨿᨹᩈᩫ᩠ᨾᨶᩣᩴ᩶ᩈᩫ᩠᩶ᨾᩈᩣ᩠ᨿᨩᩪ 2 ᩈ᩠ᩅ᩵ᨶᨠᩢ᩠ᨷᨶᩣᩴ᩶ᨾᩢ᩠ᨶ 5 ᩈ᩠ᩅ᩵ᨶ ᩉᩣ᩠ᨠᨾᩦᨶᩣᩴ᩶ᩈᩫ᩠᩶ᨾᩈᩣ᩠ᨿᨩᩪ 9 ᩋᩬᩁ᩺ᨪ᩺ ᨣ᩠ᩅᩁᨹᩈᩫ᩠ᨾᨶᩣᩴ᩶ᨾᩢ᩠ᨶᨠᩦ᩵ᩋᩬᩁ᩺ᨪ᩺?
+A: 2
+B: 3.6
+C: 22.5
+D: 63
+
+
+#sample_id: electrical_engineering/test/73
+Power dissipation in ideal inductor is
+A: Maximum
+B: Minimum
+C: Zero
+D: A finite value
+
+กำลังไฟฟ้าที่สูญเสียในตัวเหนี่ยวนำอุดมคติ (ideal inductor) เป็นเท่าใด?
+A: มากที่สุด
+B: น้อยที่สุด
+C: เป็นศูนย์
+D: มีค่าจำกัด
+
+ᨠᩣᩴᩃᩢ᩠ᨦᨼᩱᨼ᩶ᩣᨴᩦ᩵ᩈᩪᨶᩈᩮ᩠ᨿᨶᩱᨲ᩠ᩅᩫᩉ᩠ᨶ᩠ᨿ᩵ᩅᨶᩣᩴᩏᨯᩫ᩠ᨾᨣᨲᩥ (ideal inductor) ᨸᩮ᩠ᨶᨴᩮᩢ᩵ᩤᨯᩱ?
+A: ᨶᩢ᩠ᨠᨴᩦ᩵ᩈᩩᨯ
+B: ᨶᩬ᩠᩶ᨿᨴᩦ᩵ᩈᩩᨯ
+C: ᨸᩮ᩠ᨶᩈᩪᨶ᩠ᨿ᩺
+D: ᨾᩦᨣ᩵ᩣᨧᩣᩴᨠᩢ᩠ᨯ
+
+
+#sample_id: high_school_physics/test/55
+An object is placed 10 cm in front of a diverging mirror. What is the focal length of the mirror if the image appears 2 cm behind the mirror?
+A: -3/5 cm
+B: -5/3 cm
+C: -2/5 cm
+D: -5/2 cm
+
+วัตถุถูกวางไว้หน้ากระจกนูน (diverging mirror) ที่ระยะ 10 ซม. ความยาวโฟกัสของกระจกเป็นเท่าใด หากภาพเกิดขึ้นที่ระยะ 2 ซม. หลังกระจก?
+A: -3/5 ซม.
+B: -5/3 ซม.
+C: -2/5 ซม.
+D: -5/2 ซม.
+
+ᩅᩢᨲ᩠ᨳᩩᨳᩪᨠᩅᩣ᩠ᨦᩅᩱ᩶ᩉ᩠ᨶ᩶ᩣᨠᩕᨧᩫ᩠ᨠᨶᩪᩁ (diverging mirror) ᨴᩦ᩵ᩁᩡᨿᩡ 10 ᨪᨾ. ᨤ᩠ᩅᩣ᩠ᨾᨿᩣ᩠ᩅᩰᨼᨠᩢ᩠ᩈᨡᩬᨦᨠᩕᨧᩫ᩠ᨠᨸᩮ᩠ᨶᨴᩮᩢ᩵ᩤᨯᩱ ᩉᩣ᩠ᨠᨽᩣ᩠ᨻᨠᩮᩥ᩠ᨯᨡᩧ᩠᩶ᨶᨴᩦ᩵ᩁᩡᨿᩡ 2 ᨪᨾ. ᩉ᩠ᩃᩢᨦᨠᩕᨧᩫ᩠ᨠ?
+A: -3/5 ᨪᨾ.
+B: -5/3 ᨪᨾ.
+C: -2/5 ᨪᨾ.
+D: -5/2 ᨪᨾ.
+
+
+#sample_id: college_chemistry/test/22
+At 25°C, the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water is 1.0 mmol. Assuming complete dissociation, the solubility product, K_sp, for lead iodide at 25°C is
+A: 1.0 × 10^−3
+B: 1.0 × 10^−6
+C: 1.0 × 10^−9
+D: 4.0 × 10^−9
+
+ที่อุณหภูมิ 25°C ปริมาณสูงสุดของ PbI₂ ที่สามารถละลายในน้ำบริสุทธิ์ 1.00 ลิตร คือ 1.0 มิลลิโมล สมมติว่าแตกตัวสมบูรณ์ ค่าคงที่ผลคูณการละลาย (Ksp) ของตะกั่วไอโอไดด์ที่ 25°C คือ
+A: 1.0 × 10⁻³
+B: 1.0 × 10⁻⁶
+C: 1.0 × 10⁻⁹
+D: 4.0 × 10⁻⁹
+
+ᨴᩦ᩵ᩏᨱ᩠ᩉᨽᩪᨾᩥ 25°C ᨸᩕᩥᨾᩣ᩠ᨱᩈᩪᨦᩈᩩᨯᨡᩬᨦ PbI₂ ᨴᩦ᩵ᩈᩣᨾᩣ᩠ᨲᩃᩡᩃᩣ᩠ᨿᨶᩱᨶᩣᩴ᩶ᨷᩁᩥᩈᩩᨴ᩠ᨵᩥ᩺ 1.00 ᩃᩥᨲᩕ ᨣᩨ 1.0 ᨾᩥᩃᩃᩥᩰᨾᩃ ᩈᩫ᩠ᨾᨾᩩᨲᩥᩅ᩵ᩣᨲᩯ᩠ᨠᨲ᩠ᩅᩫᩈᩫᨾ᩠ᨷᩪᩁ᩠ᨱ᩺ ᨣ᩵ᩣᨣᩫ᩠ᨦᨴᩦ᩵ᨹᩫ᩠ᩃᨣᩪᨱᨠᩣ᩠ᩁᩃᩡᩃᩣ᩠ᨿ (Ksp) ᨡᩬᨦᨲᩡᨠ᩠ᩅᩫ᩵ᩋᩱᩰᩋᨯᩱ᩠ᨯ᩺ᨴᩦ᩵ 25°C ᨣᩨ
+A: 1.0 × 10⁻³
+B: 1.0 × 10⁻⁶
+C: 1.0 × 10⁻⁹
+D: 4.0 × 10⁻⁹
+
+
+#sample_id: public_relations/test/18
+Which statement is true about focus group research?
+A: The participants should be selected at random.
+B: It is an example of a formal research tool for practitioners.
+C: The information can be generalized to describe a larger population.
+D: The findings generate qualitative data that can be used to develop surveys.
+
+ข้อใดเป็นความจริงเกี่ยวกับการวิจัยแบบกลุ่มสนทนา (focus group)?
+A: ผู้เข้าร่วมควรถูกเลือกแบบสุ่ม
+B: เป็นเครื่องมือวิจัยเชิงทางการสำหรับผู้ปฏิบัติงาน
+C: ข้อมูลสามารถนำไปใช้แทนประชากรกลุ่มใหญ่ได้
+D: ผลลัพธ์เป็นข้อมูลเชิงคุณภาพที่สามารถนำไปใช้พัฒนาแบบสำรวจได้
+
+ᨡᩬᩴ᩶ᨯᩱᨸᩮ᩠ᨶᨤ᩠ᩅᩣ᩠ᨾᨧᩥ᩠ᨦᨠ᩠ᨿ᩵ᩅᨠᩢ᩠ᨷᨠᩣ᩠ᩁᩅᩥᨧᩱ᩠ᨿᨷᩯ᩠ᨷᨠ᩠ᩃᩩ᩵ᨾᩈᩫ᩠ᨶᨴᨶᩣ (focus group)?
+A: ᨹᩪ᩶ᨡᩮᩢ᩶ᩣᩁ᩠ᩅ᩵ᨾᨣ᩠ᩅᩁᨳᩪᨠᩃᩮᩬᩥᨠᨷᩯ᩠ᨷᩈᩩ᩵ᨾ
+B: ᨸᩮ᩠ᨶᨣᩕᩮᩬᩥ᩵ᨦᨾᩨᩅᩥᨧᩱ᩠ᨿᨩᩮᩥ᩠ᨦᨴᩣ᩠ᨦᨠᩣ᩠ᩁᩈᩣᩴᩁᩢ᩠ᨷᨹᩪ᩶ᨸᨭᩥᨷᩢᨲ᩠ᨲᩥᨦᩣ᩠ᨶ
+C: ᨡᩬᩴ᩶ᨾᩪᩃᩈᩣᨾᩣ᩠ᨲᨶᩣᩴᨻᩱᨩᩱ᩶ᨴᩯ᩠ᨶᨷᩕᨩᩣᨠᩬᩁᨠ᩠ᩃᩩ᩵ᨾᩉ᩠ᨿᩱ᩵ᨯᩱ᩶
+D: ᨹᩫ᩠ᩃᩃᩢ᩠ᨷᨵ᩺ᨸᩮ᩠ᨶᨡᩬᩴ᩶ᨾᩪᩃᨩᩮᩥ᩠ᨦᨣᩩᨱᨽᩣ᩠ᨻᨴᩦ᩵ᩈᩣᨾᩣ᩠ᨲᨶᩣᩴᨻᩱᨩᩱ᩶ᨽᨯ᩠ᨰᨶᩣᨷᩯ᩠ᨷᩈᩣᩴᩁ᩠ᩅᨧᨯᩱ᩶
+
+
+#sample_id: human_sexuality/test/24
+What seems to be the case when the folk saying "opposites attract" (i.e., dissimilar attitudes tend to cause liking) when it is considered in light of current research?
+A: It does not seem to be true.
+B: It seems to be true for heterosexuals but not for homosexuals.
+C: It seems to be true for homosexuals but not for heterosexuals.
+D: It seems to be true for women but not for men
+
+คำกล่าวที่ว่า “คนที่ต่างกันมักดึงดูดกัน” (opposites attract) เมื่อพิจารณาจากงานวิจัยปัจจุบัน ดูเหมือนว่าเป็นอย่างไร?
+A: ดูเหมือนจะไม่เป็นความจริง
+B: ดูเหมือนจะเป็นจริงสำหรับคนรักต่างเพศ แต่ไม่ใช่สำหรับคนรักเพศเดียวกัน
+C: ดูเหมือนจะเป็นจริงสำหรับคนรักเพศเดียวกัน แต่ไม่ใช่สำหรับคนรักต่างเพศ
+D: ดูเหมือนจะเป็นจริงสำหรับผู้หญิง แต่ไม่ใช่สำหรับผู้ชาย
+
+ᨣᩤᩴᨠ᩠ᩃ᩵ᩣ᩠ᩅᨴᩦ᩵ᩅ᩵ᩤ “ᨤᩫ᩠ᨶᨴᩦ᩵ᨲ᩵ᩣ᩠ᨦᨠᩢ᩠ᨶᨾᩢ᩠ᨠᨯᩧ᩠ᨦᨯᩪᨯᨠᩢ᩠ᨶ” (opposites attract) ᨾᩮᩬᩥ᩵ᩋᨻᩥᨧᩣᩁᨱᩣᨧᩣ᩠ᨠᨦᩣ᩠ᨶᩅᩥᨧᩱ᩠ᨿᨸᩢᨧ᩠ᨧᩩᨷᩢ᩠ᨶ ᨯᩪᩉ᩠ᨾᩮᩬᩥᩁᩅ᩵ᩤᨸᩮ᩠ᨶᩀ᩵ᩣ᩠ᨦᨯᩱ?
+A: ᨯᩪᩉ᩠ᨾᩮᩬᩥᩁᨧᩡᨷᩴ᩵ᨸᩮ᩠ᨶᨣ᩠ᩅᩣ᩠ᨾᨧᩥ᩠ᨦ
+B: ᨯᩪᩉ᩠ᨾᩮᩬᩥᩁᨧᩡᨸᩮ᩠ᨶᨧᩥ᩠ᨦᩈᩣᩴᩁᩢ᩠ᨷᨤᩫ᩠ᨶᩁᩢ᩠ᨠᨲ᩵ᩣ᩠ᨦᨻᩮ᩠ᩇ ᨲᩯ᩵ᨷᩴ᩵ᨩᩱ᩵ᩈᩣᩴᩁᩢ᩠ᨷᨤᩫ᩠ᨶᩁᩢ᩠ᨠᨻᩮ᩠ᩇᨯ᩠ᨿᩅᨠᩢ᩠ᨶ
+C: ᨯᩪᩉ᩠ᨾᩮᩬᩥᩁᨧᩡᨸᩮ᩠ᨶᨧᩥ᩠ᨦᩈᩣᩴᩁᩢ᩠ᨷᨤᩫ᩠ᨶᩁᩢ᩠ᨠᨻᩮ᩠ᩇᨯ᩠ᨿᩅᨠᩢ᩠ᨶ ᨲᩯ᩵ᨷᩴ᩵ᨩᩱ᩵ᩈᩣᩴᩁᩢ᩠ᨷᨤᩫ᩠ᨶᩁᩢ᩠ᨠᨲ᩵ᩣ᩠ᨦᨻᩮ᩠ᩇ
+D: ᨯᩪᩉ᩠ᨾᩮᩬᩥᩁᨧᩡᨸᩮ᩠ᨶᨧᩥ᩠ᨦᩈᩣᩴᩁᩢ᩠ᨷᨾᩯ᩵ᨿᩥ᩠ᨦ ᨲᩯ᩵ᨷᩴ᩵ᨩᩱ᩵ᩈᩣᩴᩁᩢ᩠ᨷᨻᩬᩴ᩵ᨩᩣ᩠ᨿ
+
+
+#sample_id: us_foreign_policy/test/62
+What were the primary institutions of the liberal international economic order?
+I. GATT
+II. IMF
+III. World Bank
+IV. NATO
+A: IV only
+B: II and III
+C: I, II, and III
+D: I, II, III, and IV
+
+สถาบันหลักของระเบียบเศรษฐกิจระหว่างประเทศแบบเสรีนิยมคือข้อใดบ้าง?
+I. GATT
+II. IMF
+III. World Bank
+IV. NATO
+A: เฉพาะ IV
+B: II และ III
+C: I, II และ III
+D: I, II, III และ IV
+
+ᩈᨳᩣᨷᩢ᩠ᨶᩉ᩠ᩃᩢᨠᨡᩬᨦᩁᨷ᩠ᨿᨷᩆᩕᩮᩇ᩠ᨮᨠᩥ᩠ᨧᩁᩉ᩠ᩅ᩵ᩣ᩠ᨦᨸᩕᨴᩮ᩠ᩆᨷᩯ᩠ᨷᩈᩮᩁᩦᨶᩥᨿᩫ᩠ᨾᨣᩨᨡᩬᩴ᩶ᨯᩱᨻᩬ᩵ᨦ?
+I. GATT
+II. IMF
+III. World Bank
+IV. NATO
+A: ᨩᩮᨻᩣᩡ IV
+B: II ᩓ III
+C: I, II ᩓ III
+D: I, II, III ᩓ IV
+
+
+#sample_id: high_school_macroeconomics/test/133
+According to Keynesian analysis a decrease in the money supply would
+A: raise the price level and output in the economy.
+B: lower the price level and output in the economy.
+C: raise the price level in the economy.
+D: lower the price level in the economy.
+
+ตามการวิเคราะห์แบบเคนส์ การลดลงของปริมาณเงินจะส่งผลอย่างไร?
+A: ทำให้ระดับราคาและผลผลิตในระบบเศรษฐกิจเพิ่มขึ้น
+B: ทำให้ระดับราคาและผลผลิตในระบบเศรษฐกิจลดลง
+C: ทำให้ระดับราคาเพิ่มขึ้น
+D: ทำให้ระดับราคาลดลง
+
+ᨲᩣ᩠ᨾᨠᩣ᩠ᩁᩅᩥᨤᩮᩣᩡᨷᩯ᩠ᨷᩮᨣ᩠ᨶᩈ᩺ ᨠᩣ᩠ᩁᩃᩫ᩠ᨯᩃᩫ᩠ᨦᨡᩬᨦᨸᩕᩥᨾᩣ᩠ᨱᨦᩮᩥ᩠ᨶᨧᩡᩈᩫ᩠᩵ᨦᨹᩫ᩠ᩃᩀ᩵ᩣ᩠ᨦᨯᩱ?
+A: ᨿᩮ᩠ᨿᩡᩉᩨ᩶ᩁᩡᨯᩢ᩠ᨷᩁᩣᨤᩣᩓᨹᩫ᩠ᩃᨹᩃᩥ᩠ᨲᨶᩱᩁᨷᩫ᩠ᨷᩆᩕᩮᩇ᩠ᨮᨠᩥ᩠ᨧᨻᩮᩥ᩠᩵ᨾᨡᩧ᩠᩶ᨶ
+B: ᨿᩮ᩠ᨿᩡᩉᩨ᩶ᩁᩡᨯᩢ᩠ᨷᩁᩣᨤᩣᩓᨹᩫ᩠ᩃᨹᩃᩥ᩠ᨲᨶᩱᩁᨷᩫ᩠ᨷᩆᩕᩮᩇ᩠ᨮᨠᩥ᩠ᨧᩃᩫ᩠ᨯᩃᩫ᩠ᨦ
+C: ᨿᩮ᩠ᨿᩡᩉᩨ᩶ᩁᩡᨯᩢ᩠ᨷᩁᩣᨤᩣᨻᩮᩥ᩠᩵ᨾᨡᩧ᩠᩶ᨶ
+D: ᨿᩮ᩠ᨿᩡᩉᩨ᩶ᩁᩡᨯᩢ᩠ᨷᩁᩣᨤᩣᩃᩫ᩠ᨯᩃᩫ᩠ᨦ
+
+
+#sample_id: sociology/test/126
+Weber defined a 'class situation' as:
+A: the exploitation of the working class by their capitalist employers
+B: a social group's consciousness of their status and life chances
+C: a person's position in the capital, product and labour markets, based on their economic resources
+D: the lifestyle of a social class, as defined by patterns of consumption
+
+แม็กซ์ เวเบอร์ นิยาม “สถานการณ์ชนชั้น” (class situation) ว่าอย่างไร?
+A: การเอารัดเอาเปรียบชนชั้นแรงงานโดยนายทุน
+B: การตระหนักรู้ของกลุ่มสังคมเกี่ยวกับสถานะและโอกาสในชีวิตของตน
+C: ตำแหน่งของบุคคลในตลาดทุน ตลาดสินค้า และตลาดแรงงาน โดยอิงจากทรัพยากรทางเศรษฐกิจ
+D: วิถีชีวิตของชนชั้นทางสังคมตามรูปแบบการบริโภค
+
+ᨾᩯᩢ᩠ᨠᩈ᩺ ᩅᩮᨷᩮᩬᩥᩁ᩺ ᨶᩥᨿᩣ᩠ᨾ “ᩈᨳᩣᨶᨠᩣ᩠ᩁᨱ᩺ᨩᩫ᩠ᨶᨩᩢ᩠᩶ᨶ” (class situation) ᩅ᩵ᩤᨧᨯᩱ?
+A: ᨠᩣ᩠ᩁᩋᩮᩢᩣᩃᩢ᩠ᨯᩋᩮᩢᩣᨸ᩠ᩁ᩠ᨿᨷᨩᩫ᩠ᨶᨩᩢ᩠᩶ᨶᩁᩯ᩠ᨦᨦᩣ᩠ᨶᨯᩰ᩠ᨿᨶᩣ᩠ᨿᨴᩩᩁ
+B: ᨠᩣ᩠ᩁᨲᩕᩉ᩠ᨶᩢᨠᩁᩪ᩶ᨡᩬᨦᨠ᩠ᩃᩩ᩵ᨾᩈᩢᨦ᩠ᨣᩫᨾᨠ᩠ᨿ᩵ᩅᨠᩢ᩠ᨷᩈᨳᩣᨶᩡᩓᩒᨠᩣ᩠ᩈᨶᩱᨩᩦᩅᩥ᩠ᨲᨡᩬᨦᨲ᩠ᩅᩫᨠᩮᩢ᩵ᩣ
+C: ᨲᩣᩴᩉ᩠ᨶᩯ᩵ᨦᨡᩬᨦᨷᩩᨣ᩠ᨣᩫᩃᨶᩱᨲᩃᩣ᩠ᨯᨴᩩᩁ ᨲᩃᩣ᩠ᨯᩈᩥ᩠ᨶᨣ᩶ᩤ ᩓᨲᩃᩣ᩠ᨯᩁᩯ᩠ᨦᨦᩣ᩠ᨶ ᨯᩰ᩠ᨿᩋᩥ᩠ᨦᨧᩣ᩠ᨠᨴᩕᩢᨻ᩠ᨿᩣᨠᩬᩁᨴᩤ᩠ᨦᩆᩕᩮᩇ᩠ᨮᨠᩥ᩠ᨧ
+D: ᩅᩥᨳᩦᨩᩦᩅᩥ᩠ᨲᨡᩬᨦᨩᩫ᩠ᨶᨩᩢ᩠᩶ᨶᨴᩤ᩠ᨦᩈᩢᨦ᩠ᨣᩫᨾᨲᩣ᩠ᨾᩁᩪᨷᨷᩯ᩠ᨷᨠᩣ᩠ᩁᨷᩬᩁᩥᩰᨽ᩠ᨣ

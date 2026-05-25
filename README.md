@@ -26,6 +26,15 @@ I am **a native speaker of Northern Thai / Lanna**, so this project is close to 
 
 Lanna (also called *Tua Mueang*, *Tai Tham*, or *Northern Thai script*) is an abugida script historically used throughout the ancient Lanna Kingdom (present-day northern Thailand, Shan State of Myanmar, Laos, and Yunnan, China). While it is still used in Buddhist religious contexts and by some cultural communities, it is considered a low-resource script with virtually no LLM training data.
 
+### ⚠️ Font Support & Rendering
+
+To view the Lanna script (`ᨲᩫ᩠ᩅᨾᩮᩬᩥᨦ`) correctly in your browser, text editor, or mobile device, you will need a **Unicode-compatible Tai Tham/Lanna font**. 
+
+While modern computers and mobile phones may have default system fonts that can display the characters, the rendering is often very broken (specifically with Microsoft's Sans Serif collection or standard Noto Sans Tai Tham). 
+
+To resolve rendering and broken layout issues, we highly recommend using:
+- **[Lanna Tai Tham Font (taitham-lanna)](https://github.com/norto/taitham-lanna)** — A high-quality, Unicode-compliant font designed to render Tai Tham / Lanna script correctly.
+
 ---
 
 ## Dataset
